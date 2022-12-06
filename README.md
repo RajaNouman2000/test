@@ -1,2 +1,2 @@
 # test
-understanding the workflow of Git
+Understanding the workflow of Git
